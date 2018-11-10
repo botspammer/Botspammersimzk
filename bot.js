@@ -45,7 +45,7 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('♥♥♥الله اكبر');
+channel.send('♥00♥♥الله اكبر');
 }, 25)
 })
 
@@ -70,7 +70,7 @@ channel.send('spammer More in discord TOP TOP TOP credit 10k a 1day  5 acc Spamm
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('بوت بوت سبام بوت بوت سبام هوب هوب هوب 10ك كرديت في اليوم اوميجد ');
+channel.send('000بوت بوت سبام بوت بوت سبام هوب هوب هوب 10ك كرديت في اليوم اوميجد ');
 }, 25)
 })
 
@@ -78,17 +78,7 @@ channel.send('بوت بوت سبام بوت بوت سبام هوب هوب هوب
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('Mahmoud-QuaStyle Top   Life Top ♥♥ ');
-}, 25)
-})
-
-
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("502827265281884161")
-setInterval(function() {
-channel.send('Spammer MOre hhhh :joy: :joy: ');
+channel.send('Mahmoud-QuaStyle Top   Life Top 12♥♥ ');
 }, 25)
 })
 
@@ -98,7 +88,17 @@ channel.send('Spammer MOre hhhh :joy: :joy: ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('Number 1 Number 1 Spammer MOre hhhhhh QQ Baby hh Lol  ');
+channel.send('Spammer MOre hhhh :joy: :joy:12 ');
+}, 25)
+})
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('Number 1 Number 1 Spammer MOre hhhhhh QQ Baby hh Lol32  ');
 }, 25)
 })
 
@@ -108,7 +108,7 @@ channel.send('Number 1 Number 1 Spammer MOre hhhhhh QQ Baby hh Lol  ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
-channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG  ');
+channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG11  ');
 }, 25)
 })
 
@@ -119,7 +119,7 @@ channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG  ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
-channel.send('A4try BOTs spammer MOre yad al7a2el 3ard men Life aw Mahmoud top top top  ');
+channel.send('A4try BOTs spammer MOre yad al7a2el 3ard men Life aw Mahmoud top top top 33 ');
 }, 25)
 })
 
@@ -129,7 +129,7 @@ channel.send('A4try BOTs spammer MOre yad al7a2el 3ard men Life aw Mahmoud top t
 client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
-channel.send('AL ONE YAD HHH AL ONE YAD DD  ');
+channel.send('AL ONE YAD HHH AL ONE YAD DD 1,, ');
 }, 25)
 })
 
@@ -152,7 +152,7 @@ channel.send('Discord bot spammer more hh qq   ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
-channel.send(':up:  |  Spammer 2 has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle ≽ܫ≼ a reputation point!  ');
+channel.send(':up:  |  Spammer 2 has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle ≽ܫ≼ a reputation point!5  ');
 }, 25)
 })
 
@@ -161,7 +161,7 @@ channel.send(':up:  |  Spammer 2 has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle
 client.on("ready", () => {
 let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
-channel.send(':up:  |  SpammerMore has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle ≽ܫ≼ a reputation point! ');
+channel.send(':up:  |  SpammerMore has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle ≽ܫ≼ a reputation point!41 ');
 }, 25)
 })
 
@@ -170,7 +170,7 @@ channel.send(':up:  |  SpammerMore has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaSty
 client.on("ready", () => {
 let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
-channel.send('Emoji Channel t7t da 3la tolll  ');
+channel.send('Emoji Channel t7t da 3la tolll 552 ');
 }, 25)
 })
 
@@ -183,7 +183,7 @@ channel.send('Emoji Channel t7t da 3la tolll  ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
-channel.send('♥♥♥♥♥♥♥♥  ');
+channel.send('♥♥♥♥♥♥♥♥ 11 ');
 }, 25)
 })
 
@@ -194,7 +194,7 @@ channel.send('♥♥♥♥♥♥♥♥  ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
-channel.send(':watch:  :100:  :weary:  :computer:  :ok_hand: ');
+channel.send(':watch:  :100:  :weary:  :computer: 55 :ok_hand: ');
 }, 25)
 })
 
@@ -203,7 +203,7 @@ channel.send(':watch:  :100:  :weary:  :computer:  :ok_hand: ');
 client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
-channel.send(':flag_ac:  :flag_af:  :flag_ad:  :flag_eg:  :flag_iq:  :flag_kh:');
+channel.send(':flag_ac:  :flag_af:  :flag_ad:  :flag_eg:66  :flag_iq:  :flag_kh:');
 }, 25)
 })
 
@@ -212,7 +212,7 @@ channel.send(':flag_ac:  :flag_af:  :flag_ad:  :flag_eg:  :flag_iq:  :flag_kh:')
 client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
-channel.send(':eggplant: :trackball: :clock: :bike: :tangerine:');
+channel.send(':eggplant: :trackball: :clock: :bike:66 :tangerine:');
 }, 25)
 })
 
