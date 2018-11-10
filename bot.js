@@ -541,12 +541,7 @@ member.sendFile(canvas.toBuffer());
 ////welcome new new new
 
 
-client.on("ready", () => {
-let channel =     client.channels.get("502827265281884161")
-setInterval(function() {
-channel.send('welcome welcome welcome wwelcome welcome welcome welcome welcome welcome');
-}, 25)
-})
+
 
 
 
